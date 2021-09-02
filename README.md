@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/sgolikRepo/spring5-mvc-rest-application/tree/master.svg?style=svg)](https://circleci.com/gh/sgolikRepo/spring5-mvc-rest-application/tree/master)
+
 [![codecov](https://codecov.io/gh/sgolikRepo/spring5-mvc-rest-application/branch/master/graph/badge.svg?token=HF7NL5H6HY)](https://codecov.io/gh/sgolikRepo/spring5-mvc-rest-application)
 # Spring Framework 5 MVC Rest Application
 
